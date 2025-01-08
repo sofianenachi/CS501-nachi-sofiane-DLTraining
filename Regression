@@ -1,1 +1,17 @@
 
+Project Overview
+In this hands-on project, we will develop a deep learning regression model to predict house prices in California. This project serves as an excellent introduction to regression problems in deep learning, demonstrating how neural networks can capture complex relationships in real estate data.
+
+Dataset Description
+We will work with the California Housing dataset, which contains information about houses in California districts:
+Demographic Features:
+   Median Income
+  Population
+Average Occupancy
+Housing Features:
+House Age
+Average Rooms
+Average Bedrooms
+Location Features:
+Latitude
+Longitude Our target variable is continuous: the median house value in the district.
